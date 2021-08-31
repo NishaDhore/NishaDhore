@@ -1,0 +1,67 @@
+[main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] DEBUG Controller  - Hello this is a debug message
+  [main] INFO  Controller  - Hello this is an info message
+  [main] WARN  Controller  - you have to select any otion
+  [main] DEBUG Controller  - strat : displayId
+  [main] DEBUG Controller  - Start: methodDBConnection 
+  [main] INFO  Controller  - Driver Class is Loaded
+  [main] INFO  Controller  - Connection Established....
+  [main] DEBUG Controller  - End : methodDBConnection
+  [main] INFO  Controller  - connection created...
+  [main] DEBUG Controller  - strat : displayId
+  [main] WARN  Controller  - you have to select any otion
+  [main] DEBUG Controller  - strat : retrieveAndDisplayRecords
+  [main] DEBUG Controller  - Start: methodDBConnection 
+  [main] INFO  Controller  - Driver Class is Loaded
+  [main] INFO  Controller  - Connection Established....
+  [main] DEBUG Controller  - End : methodDBConnection
+  [main] INFO  Controller  - connection created...
+  [main] WARN  Controller  - All data should be get using getString() method
+  [main] WARN  Controller  - All data should be get using getString() method
+  [main] WARN  Controller  - All data should be get using getString() method
+  [main] WARN  Controller  - All data should be get using getString() method
+  [main] WARN  Controller  - All data should be get using getString() method
+  [main] WARN  Controller  - All data should be get using getString() method
+  [main] WARN  Controller  - All data should be get using getString() method
+  [main] WARN  Controller  - All data should be get using getString() method
+  [main] WARN  Controller  - All data should be get using getString() method
+  [main] WARN  Controller  - All data should be get using getString() method
+  [main] DEBUG Controller  - End : retrieveAndDisplayRecords
+  [main] WARN  Controller  - you have to select any otion
+  [main] DEBUG Controller  - Thank you
+  
